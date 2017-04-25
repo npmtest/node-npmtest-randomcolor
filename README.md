@@ -1,6 +1,7 @@
 # npmtest-randomcolor
 
-test coverage for  [randomcolor (v0.4.4)](http://llllll.li/randomColor/)  [![npm package](https://img.shields.io/npm/v/npmtest-randomcolor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-randomcolor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-randomcolor.svg)](https://travis-ci.org/npmtest/node-npmtest-randomcolor)
+#### basic test coverage for  [randomcolor (v0.5.0)](http://llllll.li/randomColor/)  [![npm package](https://img.shields.io/npm/v/npmtest-randomcolor.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-randomcolor) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-randomcolor.svg)](https://travis-ci.org/npmtest/node-npmtest-randomcolor)
+
 #### For generating attractive random colors
 
 [![NPM](https://nodei.co/npm/randomcolor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/randomcolor)
@@ -9,7 +10,7 @@ test coverage for  [randomcolor (v0.4.4)](http://llllll.li/randomColor/)  [![npm
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-randomcolor/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-randomcolor/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-randomcolor/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-randomcolor/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-randomcolor/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-randomcolor/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-randomcolor/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-randomcolor/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-randomcolor/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-randomcolor/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-randomcolor/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-randomcolor/build/coverage.html/index.html)
 
@@ -52,9 +53,10 @@ test coverage for  [randomcolor (v0.4.4)](http://llllll.li/randomColor/)  [![npm
         "test": "tests"
     },
     "dist": {
-        "shasum": "5ff56862e97ba03beb0419ff0536ec7aff59eeeb",
-        "tarball": "https://registry.npmjs.org/randomcolor/-/randomcolor-0.4.4.tgz"
+        "shasum": "1a7dde4b853a178ba34d4e4d0fc7392b8ec72e3c",
+        "tarball": "https://registry.npmjs.org/randomcolor/-/randomcolor-0.5.0.tgz"
     },
+    "gitHead": "2307a86f8c6a53446621b2b52c116eb6d79e9b86",
     "homepage": "http://llllll.li/randomColor/",
     "keywords": [
         "attractive",
@@ -62,7 +64,7 @@ test coverage for  [randomcolor (v0.4.4)](http://llllll.li/randomColor/)  [![npm
         "color",
         "generator"
     ],
-    "license": "MIT",
+    "license": "CC0",
     "main": "randomColor.js",
     "maintainers": [
         {
@@ -81,7 +83,8 @@ test coverage for  [randomcolor (v0.4.4)](http://llllll.li/randomColor/)  [![npm
     "spm": {
         "main": "randomColor.js"
     },
-    "version": "0.4.4"
+    "version": "0.5.0",
+    "bin": {}
 }
 ```
 
